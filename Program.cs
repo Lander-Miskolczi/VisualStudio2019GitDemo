@@ -7,6 +7,8 @@ namespace VisualStudio2019GitDemo
         static void Main(string[] args)
         {
             Console.WriteLine("Connecting to GitHub...");
+
+            Console.WriteLine("Here is a change.");
         }
     }
 }
